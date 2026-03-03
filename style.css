@@ -1,0 +1,8 @@
+body { background-color: #f4f4f4; font-family: sans-serif; display: flex; justify-content: center; }
+.container { width: 350px; margin: 30px auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); }
+h1 { text-align: center; }
+input { display: block; width: 100%; padding: 10px; margin-bottom: 10px; box-sizing: border-box; }
+.btn { cursor: pointer; background-color: #9c88ff; color: #fff; border: 0; display: block; width: 100%; padding: 10px; font-size: 16px; }
+ul { list-style-type: none; padding: 0; }
+li { background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.12); display: flex; justify-content: space-between; padding: 10px; margin: 10px 0; border-right: 5px solid #2ecc71; }
+li.minus { border-right: 5px solid #c0392b; }
